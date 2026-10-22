@@ -30,8 +30,8 @@ The primary goal of this project is to uncover hidden efficiencies and trends in
 ## 📁 Repository Structure
 
 ```text
-├── NBA_Dataset.csv                             # Intial dataset that was given
-├── NBA_Dataset.txt                             # 
+├── NBA_Dataset.csv                             # Intial dataset that was given (Table format)
+├── NBA_Dataset.txt                             # Initial dataset that was given (Text format)
 ├── NBA_Sports_Analytics_Project.twb            # Dashboard created for analysis 
 └── README.md                                   #
 
