@@ -30,15 +30,10 @@ The primary goal of this project is to uncover hidden efficiencies and trends in
 ## 📁 Repository Structure
 
 ```text
-├── Data/
-│   ├── Extracts/
-│   │   └── federated_03vr7ym1smentd160cwqn1.hyper   # Optimized columnar storage extract
-│   └── raw/                                        # Raw source CSVs and API exports
-├── Dashboards/
-│   ├── NBA_Sports_Analytics_Project.twb            # Tableau Workbook file
-│   └── assets/                                     # Exported high-res PNGs and icons
-├── scripts/                                        # Data cleaning & pipeline scripts
-└── README.md
+├── NBA_Dataset.csv                             # Intial dataset that was given
+├── NBA_Dataset.txt                             # 
+├── NBA_Sports_Analytics_Project.twb            # Dashboard created for analysis 
+└── README.md                                   #
 
 ```
 
